@@ -2,7 +2,8 @@
 
 ## User Scenario
 This device will take record of the time you are sitting and vibrate if it is more than 2 hours, will remind you to drink water and stand-up or move for a while. 
-![image](https://github.com/laks1806/Smart-Wearable/assets/67590424/ad7884b7-984f-44f4-8663-4f57b3cb6776)
+
+![image](https://github.com/laks1806/Smart-Wearable/assets/67590424/99e52633-2bfc-4436-a3a9-a492ad1539b3)
 
 
 
@@ -12,6 +13,9 @@ This project implements an IoT wearable device that incorporates BME280 and MPU6
 
 ## Image for refrence
 ![image](https://github.com/laks1806/Smart-Wearable/assets/67590424/d36316cb-3d6b-4479-8256-bfa55e2010ee)
+
+
+
 
 ## Demo Video
 
