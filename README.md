@@ -2,6 +2,8 @@
 
 ## User Scenario
 This device will take record of the time you are sitting and vibrate if it is more than 2 hours, will remind you to drink water and stand-up or move for a while. 
+![image](https://github.com/laks1806/Smart-Wearable/assets/67590424/ad7884b7-984f-44f4-8663-4f57b3cb6776)
+
 
 
 ## Overview
