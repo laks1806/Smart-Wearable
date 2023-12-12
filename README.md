@@ -3,7 +3,6 @@
 ## User Scenario
 This device will take record of the time you are sitting and vibrate if it is more than 2 hours, will remind you to drink water and stand-up or move for a while. 
 
-This project implements an IoT wearable device that incorporates BME280 and MPU6050 sensors. The device measures environmental parameters and user motion to provide real-time data. It includes a variety of features such as vibration alerts, LED indicators, and an OLED display for information visualization.
 
 ## Overview
 
