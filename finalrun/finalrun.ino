@@ -15,7 +15,7 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire);
 
 unsigned long delayTime;
 
-// NeoPixel settings
+// NeoPixel settings on the watch
 #define LED_PIN    6    // Change to your NeoPixel data pin
 #define NUMPIXELS  1     // Change if you have more than 1 NeoPixel
 Adafruit_NeoPixel pixels = Adafruit_NeoPixel(NUMPIXELS, LED_PIN, NEO_GRB + NEO_KHZ800);
